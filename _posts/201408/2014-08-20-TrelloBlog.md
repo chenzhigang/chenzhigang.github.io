@@ -1,9 +1,9 @@
 ---
 layout: post
-title: SVN的安装与使用
-description: SVN的安装与相关操作
+title: Trello的使用
+description: Trello的简介优缺点以及使用
 categories:
-- Hadoop 
+- Hadoop
 tags:
 - vagrant
 ---
